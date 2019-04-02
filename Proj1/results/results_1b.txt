@@ -1,0 +1,591 @@
+
+
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 0.99343
+<E>                : 0.5
+<E^2>              : 0.25
+E variance         : 2.95541e-13
+STD                : 9.34584e-16
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 1
+Dimensions       : 1
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 1785996
+Time difference = (nanoseconds)1785996125
+Time difference (sec) = 1.786
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.500001
+Acceptance rate    : 0.99165
+<E>                : 5
+<E^2>              : 25
+E variance         : 8.83205e-12
+STD                : 2.79294e-14
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 10
+Dimensions       : 1
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 2897506
+Time difference = (nanoseconds)2897506298
+Time difference (sec) = 2.89751
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 0.99394
+<E>                : 50
+<E^2>              : 2500
+E variance         : 7.7307e-12
+STD                : 2.44466e-14
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 100
+Dimensions       : 1
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 12896554
+Time difference = (nanoseconds)12896554693
+Time difference (sec) = 12.8966
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.494075
+Acceptance rate    : 0.988
+<E>                : 247.628
+<E^2>              : 61319.5
+E variance         : 0.00553294
+STD                : 1.74967e-05
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 500
+Dimensions       : 1
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 62130944
+Time difference = (nanoseconds)62130944635
+Time difference (sec) = 62.1309
+
+
+XXXXXXXXXXXXXXXXXxxxXXXXXXXXXXXXXXXXXXXX
+
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 0.98713
+<E>                : 1
+<E^2>              : 1
+E variance         : 0
+STD                : 0
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 1
+Dimensions       : 2
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 2100659
+Time difference = (nanoseconds)2100659836
+Time difference (sec) = 2.10066
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 0.98701
+<E>                : 10
+<E^2>              : 100
+E variance         : -3.41061e-12
+STD                : -1.07853e-14
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 10
+Dimensions       : 2
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 3880789
+Time difference = (nanoseconds)3880789843
+Time difference (sec) = 3.88079
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 0.98945
+<E>                : 100
+<E^2>              : 10000
+E variance         : 7.45786e-09
+STD                : 2.35838e-11
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 100
+Dimensions       : 2
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 21209511
+Time difference = (nanoseconds)21209511138
+Time difference (sec) = 21.2095
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 0.98381
+<E>                : 500
+<E^2>              : 250000
+E variance         : -5.326e-09
+STD                : -1.68423e-11
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 500
+Dimensions       : 2
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 96393896
+Time difference = (nanoseconds)96393896091
+Time difference (sec) = 96.3939
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 0.9829
+<E>                : 1.5
+<E^2>              : 2.25
+E variance         : -1.19904e-14
+STD                : -3.7917e-17
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 1
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 2394007
+Time difference = (nanoseconds)2394007729
+Time difference (sec) = 2.39401
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.483802
+Acceptance rate    : 0.98364
+<E>                : 14.9455
+<E^2>              : 223.391
+E variance         : 0.0214559
+STD                : 6.78496e-05
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 10
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 3967908
+Time difference = (nanoseconds)3967908587
+Time difference (sec) = 3.96791
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+----------------------------
+Alpha              : 0.272723
+Acceptance rate    : 0.99252
+<E>                : 101.218
+<E^2>              : 10277.9
+E variance         : 32.6979
+STD                : 0.1034
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 100
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 19478842
+Time difference = (nanoseconds)19478842430
+Time difference (sec) = 19.4788
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx
+
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 0.97915
+<E>                : 750
+<E^2>              : 562500
+E variance         : 3.92087e-07
+STD                : 1.23989e-09
+---------------------------- 
+ 
+ **************    
+Brute force
+Particles        : 500
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.06
+ **************    
+Time difference (microseconds) = 91785881
+Time difference = (nanoseconds)91785881989
+Time difference (sec) = 91.7859
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.486157
+Acceptance rate    : 0.94851
+<E>                : 0.490824
+<E^2>              : 0.240952
+E variance         : 4.39969e-05
+STD                : 1.39131e-07
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 1
+Dimensions       : 1
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 3357876
+Time difference = (nanoseconds)3357876999
+Time difference (sec) = 3.35788
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 1
+<E>                : 5
+<E^2>              : 25
+E variance         : -5.9579e-12
+STD                : -1.88405e-14
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 10
+Dimensions       : 1
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 16515244
+Time difference = (nanoseconds)16515244264
+Time difference (sec) = 16.5152
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 1
+<E>                : 50
+<E^2>              : 2500
+E variance         : 6.00267e-11
+STD                : 1.89821e-13
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 100
+Dimensions       : 1
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 142420800
+Time difference = (nanoseconds)142420800279
+Time difference (sec) = 142.421
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 188.669
+Acceptance rate    : 0
+<E>                : -2.81104e+06
+<E^2>              : 7.90193e+12
+E variance         : 18.5088
+STD                : 0.0585299
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 500
+Dimensions       : 1
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 706557545
+Time difference = (nanoseconds)706557545090
+Time difference (sec) = 706.558
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.499985
+Acceptance rate    : 0.93165
+<E>                : 0.999983
+<E^2>              : 0.999965
+E variance         : 1.72312e-10
+STD                : 5.44899e-13
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 1
+Dimensions       : 2
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 3886527
+Time difference = (nanoseconds)3886527629
+Time difference (sec) = 3.88653
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxx
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 1
+<E>                : 10
+<E^2>              : 100
+E variance         : 0
+STD                : 0
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 10
+Dimensions       : 2
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 18565347
+Time difference = (nanoseconds)18565347905
+Time difference (sec) = 18.5653
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.899593
+Acceptance rate    : 1
+<E>                : 116.095
+<E^2>              : 13547
+E variance         : 68.9907
+STD                : 0.218168
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 100
+Dimensions       : 2
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 161577871
+Time difference = (nanoseconds)161577871540
+Time difference (sec) = 161.578
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+part 500 dim 2
+
+----------------------------
+Alpha              : 13.7991
+Acceptance rate    : 0
+<E>                : -18545.3
+<E^2>              : 3.43927e+08
+E variance         : -0.000775874
+STD                : -2.45353e-06
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 500
+Dimensions       : 2
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 794293522
+Time difference = (nanoseconds)794293522608
+Time difference (sec) = 794.294
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 0.91589
+<E>                : 1.5
+<E^2>              : 2.25
+E variance         : -1.06581e-14
+STD                : -3.3704e-17
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 1
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 4530940
+Time difference = (nanoseconds)4530940920
+Time difference (sec) = 4.53094
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+
+
+----------------------------
+Alpha              : 0.500086
+Acceptance rate    : 1
+<E>                : 14.9999
+<E^2>              : 224.996
+E variance         : 4.60636e-07
+STD                : 1.45666e-09
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 10
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 19541749
+Time difference = (nanoseconds)19541749373
+Time difference (sec) = 19.5417
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx
+
+----------------------------
+Alpha              : 247.859
+Acceptance rate    : 0
+<E>                : -3.21149e+06
+<E^2>              : 1.03137e+13
+E variance         : 5.39062
+STD                : 0.0170467
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 100
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 167212556
+Time difference = (nanoseconds)167212556363
+Time difference (sec) = 167.213
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 35.4481
+Acceptance rate    : 0
+<E>                : -259534
+<E^2>              : 6.73577e+10
+E variance         : 0.251297
+STD                : 0.000794671
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 500
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 30
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 822361949
+Time difference = (nanoseconds)822361949257
+Time difference (sec) = 822.362
+
+
+
+

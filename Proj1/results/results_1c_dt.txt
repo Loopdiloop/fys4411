@@ -1,0 +1,166 @@
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 1
+<E>                : 15
+<E^2>              : 225
+E variance         : 1.74225e-11
+STD                : 5.50948e-14
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 10
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 50
+dt               : 0.001
+ **************    
+Time difference (microseconds) = 31250417
+Time difference = (nanoseconds)31250417492
+Time difference (sec) = 31.2504
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 1
+<E>                : 15
+<E^2>              : 225
+E variance         : 6.25278e-13
+STD                : 1.9773e-15
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 10
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 50
+dt               : 0.004
+ **************    
+Time difference (microseconds) = 31316935
+Time difference = (nanoseconds)31316935729
+Time difference (sec) = 31.3169
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.5
+Acceptance rate    : 1
+<E>                : 15
+<E^2>              : 225
+E variance         : 5.40012e-12
+STD                : 1.70767e-14
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 10
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 50
+dt               : 0.007
+ **************    
+Time difference (microseconds) = 31282599
+Time difference = (nanoseconds)31282599888
+Time difference (sec) = 31.2826
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.500002
+Acceptance rate    : 1
+<E>                : 15
+<E^2>              : 225
+E variance         : 1.93836e-10
+STD                : 6.12963e-13
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 10
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 50
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 31666238
+Time difference = (nanoseconds)31666238407
+Time difference (sec) = 31.6662
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+----------------------------
+Alpha              : 0.500027
+Acceptance rate    : 0.99989
+<E>                : 15
+<E^2>              : 224.999
+E variance         : 4.53607e-08
+STD                : 1.43443e-10
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 10
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 50
+dt               : 0.04
+ **************    
+Time difference (microseconds) = 32187612
+Time difference = (nanoseconds)32187612528
+Time difference (sec) = 32.1876
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxx
+
+----------------------------
+Alpha              : 0.499996
+Acceptance rate    : 0.99915
+<E>                : 15
+<E^2>              : 225
+E variance         : 1.12448e-09
+STD                : 3.55591e-12
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 10
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 50
+dt               : 0.07
+ **************    
+Time difference (microseconds) = 32338313
+Time difference = (nanoseconds)32338313655
+Time difference (sec) = 32.3383
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+
+----------------------------
+Alpha              : 0.500002
+Acceptance rate    : 1
+<E>                : 15
+<E^2>              : 225
+E variance         : 1.93836e-10
+STD                : 6.12963e-13
+---------------------------- 
+ 
+ **************    
+Importance sampling 
+Particles        : 10
+Dimensions       : 3
+Metropolis steps : 100000
+Alpha steps      : 50
+dt               : 0.01
+ **************    
+Time difference (microseconds) = 31292987
+Time difference = (nanoseconds)31292987147
+Time difference (sec) = 31.293
+
+
+
+
+
